@@ -60,7 +60,7 @@ To set up and run the project, ensure the following dependencies are installed:
 ## Detailed Workflow
 
 ### 1. Data Preparation
-In the first notebook, the dataset is imported from the `data` folder, and a dataframe is created for training. Preprocessing steps are performed to clean and organize the data.
+In the first notebook, the dataset is imported from the `data` folder, and a dataframe is created for training. Preprocessing steps are performed to clean and organize the data efficiently.
 
 ### 2. Exploratory Data Analysis
 In the second notebook, various visualizations and calculations are performed to evaluate the dataset. Lipinski descriptors are calculated to analyze drug-likeness properties of the compounds.
